@@ -13,15 +13,15 @@ Para executar este exercício, você pode criar uma nova aplicação React, util
 
 Caso queira criar uma nova aplicação React, basta copiar os conteúdos deste repositório e colar dentro da pasta do seu projeto criado.
 
-Hoje vimos que o gerenciamento de estado precisa ser pensado de uma forma que seja possível compartilhar dados entre todos os componentes da nossa aplicação. Às vezes precisamos modificar toda a estrutura de estados para que seja possível resolver certos problemas de props, já que só podemos passar props de pai pra filho.
+Na aula vimos que o gerenciamento de estado precisa ser pensado de uma forma que seja possível compartilhar dados entre todos os componentes da nossa aplicação. Às vezes precisamos modificar toda a estrutura de estados para que seja possível resolver certos problemas de props, já que só podemos passar props de pai pra filho.
 
-Durante a aula de hoje vocês conseguiram trabalhar a troca de páginas por meio da renderização condicional. No exercício de hoje à tarde vamos implementar mais uma página na aplicação
+Durante a aula vocês conseguiram trabalhar a troca de páginas por meio da renderização condicional. Agora vamos implementar mais uma página na aplicação
 
 # Exercício 1
 
 ## Colocando a mão na massa para o exercício 1: 
 
-Nossa aplicação vai ser para o cadastro do usuário em um aplicativo de delivery, já existe uma tela de Cadastro para as informações de login do usuário na aplicação como vocês viram pela manhã, agora vamos criar mais um componente de cadastro chamado TelaCadastroEndereco, onde vocês vão pegar as informações de contato e endereço do usuário:
+Nossa aplicação vai ser para o cadastro do usuário em um aplicativo de delivery, já existe uma tela de Cadastro para as informações de login do usuário na aplicação como vocês viram, agora vamos criar mais um componente de cadastro chamado TelaCadastroEndereco, onde vocês vão pegar as informações de contato e endereço do usuário:
 
 - Crie uma pasta dentro da pasta Components chamada TelaCadastroEndereco
 - Crie um arquivo chamado TelaCadastroEndereco
