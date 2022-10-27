@@ -4,7 +4,7 @@ Caso não lembre como funciona o processo de entrega, clique [**aqui**](https://
 
 
 ## Como eu vou executar os exercícios?
-Para o exercício de hoje, vamos utilizar um template! Dentro desse template vocês vão encontrar a estrutura que trabalhamos hoje de manhã, então é um código que vocês já conhecem! 
+Para o exercício de hoje, vamos utilizar um template! Dentro desse template vocês vão encontrar a estrutura que trabalhamos em aula, então é um código que vocês já conhecem! 
 
 
 Para executar este exercício, você pode criar uma nova aplicação React, utilizar o **CodeSandbox** ou usar este template do repositório.
