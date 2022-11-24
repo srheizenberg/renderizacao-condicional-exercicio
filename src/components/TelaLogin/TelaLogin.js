@@ -11,7 +11,7 @@ function TelaLogin(props) {
       <h1>LOGIN</h1>
       <Form>
         <StyledLabel>E-mail:
-          <Input />
+          <Input type={"email"}/>
         </StyledLabel>
         <StyledLabel>Senha:
           <Input type={"password"}/>
