@@ -28,6 +28,11 @@ export const Input = styled.input`
   margin-left: 16px;
 `;
 
+export const TextArea = styled.textarea`
+  padding: 8px;
+  margin-left: 16px;
+`;
+
 export const SendButton = styled.button`
   background-color: #ff4400;
   border-radius: 8px;
